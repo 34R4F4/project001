@@ -13,3 +13,7 @@ p{
     background-color: #bbbbbb;
     padding: 10px 20px;
 }
+mark{
+    text-align: center;
+    margin: auto;
+}
